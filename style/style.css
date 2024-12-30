@@ -9,18 +9,19 @@ html, body{
     width: 100%;
     background: #F6A000;
 }
-.home-container {
+/* .home-container {
     width: 100%;
-    /* min-height: 100vh; */
     height: 210vh;
     padding: 70px;
     margin-top: 70px;
     background-image: url(/mobileImg1.png);
     background-repeat: no-repeat;
-    /* background: ; */
     background-position: center;
     background-size: cover;
     padding: 12px 12px;
+} */
+.page-title {
+    padding-top: 70px;
 }
 .home-content {
     margin: 14%;
